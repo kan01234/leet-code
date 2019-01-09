@@ -19,3 +19,4 @@
 [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 [Same Tree](https://leetcode.com/problems/same-tree/)
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)

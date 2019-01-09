@@ -9,7 +9,7 @@ public class TreeNodeUtils {
 	public static TreeNode buildTreeNode(Integer... nums) {
 		if (nums == null || nums.length == 0)
 			return null;
-		return buildTreeNode(Arrays.copyOfRange(nums, 1, nums.length), new TreeNode(nums[0]), 1);
+		return buildTreeNode(nums, null, 0);
 	}
 
 	private static TreeNode buildTreeNode(Integer[] nums, TreeNode root, int i) {
