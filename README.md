@@ -21,3 +21,4 @@
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 [Path Sum](https://leetcode.com/problems/path-sum/)
+[Best Time to Buy and Sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
