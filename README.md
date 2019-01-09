@@ -16,3 +16,4 @@
 [Add Binary](https://leetcode.com/problems/add-binary/)
 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
