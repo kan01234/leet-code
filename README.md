@@ -28,3 +28,4 @@
 [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 [Majority Element](https://leetcode.com/problems/majority-element/)
+[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
