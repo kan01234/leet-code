@@ -1,4 +1,4 @@
-package com.dotterbear.leet.code.best.time.to.buy.and.sell.one;
+package com.dotterbear.leet.code.best.time.to.buy.and.sell;
 
 class Solution {
 
