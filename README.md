@@ -9,3 +9,4 @@
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 [Remove Element](https://leetcode.com/problems/remove-element/)
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+[Search Insert Position](https://leetcode.com/problems/search-insert-position/)
