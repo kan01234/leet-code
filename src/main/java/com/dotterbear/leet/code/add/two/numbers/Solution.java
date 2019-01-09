@@ -1,5 +1,7 @@
 package com.dotterbear.leet.code.add.two.numbers;
 
+import com.dotterbear.leet.code.common.model.ListNode;
+
 class Solution {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		ListNode head = null;
@@ -23,28 +25,5 @@ class Solution {
 			l2 = l2.next;
 		}
 		return head;
-	}
-}
-
-class ListNode {
-	int val;
-	ListNode next;
-
-	ListNode(int x) {
-		val = x;
-	}
-
-	boolean equals(ListNode l2) {
-		ListNode cur = this;
-		ListNode cur2 = l2;
-		while (cur != null || cur2 != null) {
-			if (cur == null || cur2 == null)
-				return false;
-			if(cur.val != cur2.val)
-				return false;
-			cur = cur.next;
-			cur2 = cur2.next;
-		}
-		return true;
 	}
 }
