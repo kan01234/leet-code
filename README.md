@@ -57,3 +57,5 @@
 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+
+[String to Integer (atoi)](https://leetcode.com/problemset/all/)
