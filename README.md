@@ -60,7 +60,7 @@
 
 100. [Same Tree](https://leetcode.com/problems/same-tree/)
 
-[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
