@@ -1,4 +1,4 @@
-package com.dotterbear.leet.code.string.to.integer.atoi;
+package com.dotterbear.leet.code.q8;
 
 import static org.junit.Assert.assertEquals;
 

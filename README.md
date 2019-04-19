@@ -10,6 +10,8 @@
 
 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
+8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
 [3 Sum](https://leetcode.com/problems/3sum/)
 
 [3 Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
@@ -69,8 +71,6 @@
 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-
-[String to Integer (atoi)](https://leetcode.com/problemset/all/)
 
 [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 
