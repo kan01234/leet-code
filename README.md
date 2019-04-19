@@ -62,7 +62,7 @@
 
 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
-[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+104. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 [Path Sum](https://leetcode.com/problems/path-sum/)
 
