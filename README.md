@@ -40,7 +40,7 @@
 
 27. [Remove Element](https://leetcode.com/problems/remove-element/)
 
-[Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+28. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
