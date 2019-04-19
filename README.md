@@ -4,6 +4,8 @@
 
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+
 [3 Sum](https://leetcode.com/problems/3sum/)
 
 [3 Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
