@@ -48,7 +48,7 @@
 
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
-[Plus One](https://leetcode.com/problems/plus-one/)
+66. [Plus One](https://leetcode.com/problems/plus-one/)
 
 [Add Binary](https://leetcode.com/problems/add-binary/)
 
