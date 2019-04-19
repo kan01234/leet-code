@@ -1,4 +1,4 @@
-package com.dotterbear.leet.code.container.with.most.water;
+package com.dotterbear.leet.code.q11;
 
 import static org.junit.Assert.assertEquals;
 
