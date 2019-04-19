@@ -52,7 +52,7 @@
 
 67. [Add Binary](https://leetcode.com/problems/add-binary/)
 
-[Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
