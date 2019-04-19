@@ -46,7 +46,7 @@
 
 53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
-[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 
 [Plus One](https://leetcode.com/problems/plus-one/)
 

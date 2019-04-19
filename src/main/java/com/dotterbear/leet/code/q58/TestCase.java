@@ -1,4 +1,4 @@
-package com.dotterbear.leet.code.length.of.last.word;
+package com.dotterbear.leet.code.q58;
 
 import static org.junit.Assert.assertEquals;
 
