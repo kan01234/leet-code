@@ -50,7 +50,7 @@
 
 66. [Plus One](https://leetcode.com/problems/plus-one/)
 
-[Add Binary](https://leetcode.com/problems/add-binary/)
+67. [Add Binary](https://leetcode.com/problems/add-binary/)
 
 [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
