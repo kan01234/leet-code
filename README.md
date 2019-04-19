@@ -34,6 +34,8 @@
 
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
+24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 [Remove Element](https://leetcode.com/problems/remove-element/)
