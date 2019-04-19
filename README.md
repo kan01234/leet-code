@@ -26,6 +26,8 @@
 
 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
+18. [4Sum](https://leetcode.com/problems/4sum/)
+
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -75,7 +77,5 @@
 [Majority Element](https://leetcode.com/problems/majority-element/)
 
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-
-[Four Sum](https://leetcode.com/problems/4sum/)
 
 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)

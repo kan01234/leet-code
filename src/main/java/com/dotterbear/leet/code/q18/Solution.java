@@ -1,8 +1,12 @@
-package com.dotterbear.leet.code.four.sum;
+package com.dotterbear.leet.code.q18;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+/*
+ * 18. [4Sum](https://leetcode.com/problems/4sum/)
+ */
 
 class Solution {
 
