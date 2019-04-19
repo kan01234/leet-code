@@ -72,7 +72,7 @@
 
 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-[Mini Stack](https://leetcode.com/problems/min-stack/)
+155. [Mini Stack](https://leetcode.com/problems/min-stack/)
 
 [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
