@@ -24,6 +24,8 @@
 
 16. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
 
+17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
