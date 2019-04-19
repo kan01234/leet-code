@@ -22,7 +22,7 @@
 
 15. [3 Sum](https://leetcode.com/problems/3sum/)
 
-[3 Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
+16. [3 Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/)
 
 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
