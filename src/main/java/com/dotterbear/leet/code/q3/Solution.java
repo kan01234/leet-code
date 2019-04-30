@@ -1,7 +1,11 @@
-package com.dotterbear.leet.code.longest.substring.without.repeating.characters;
+package com.dotterbear.leet.code.q3;
 
 import java.util.ArrayList;
 import java.util.List;
+
+/*
+ * 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+ */
 
 class Solution {
   public int lengthOfLongestSubstring(String s) {
