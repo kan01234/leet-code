@@ -80,6 +80,4 @@
 
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
 
-[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-
-[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
