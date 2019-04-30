@@ -78,7 +78,7 @@
 
 168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 
-[Majority Element](https://leetcode.com/problems/majority-element/)
+169. [Majority Element](https://leetcode.com/problems/majority-element/)
 
 [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 
