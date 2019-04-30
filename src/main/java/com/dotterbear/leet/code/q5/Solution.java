@@ -1,7 +1,7 @@
-package com.dotterbear.leet.code.longest.palindromic.substring;
+package com.dotterbear.leet.code.q5;
 
 /*
- * 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+ * 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
  */
 
 class Solution {
