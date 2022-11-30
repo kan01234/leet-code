@@ -7,7 +7,15 @@ package com.kan01234.leet.code.java.q28;
 class Solution {
 
   public int strStr(String haystack, String needle) {
-    return haystack.indexOf(needle);
+    int hLen = haystack.length();
+    int nLen = needle.length();
+    for (int i = 0; i < hLen; i++) {
+      if (i + nLen > hLen)
+        return -1;
+      if (haystack.substring(i, i + nLen).equals(needle))
+        return i;
+    }
+    return -1;
   }
 
 }
