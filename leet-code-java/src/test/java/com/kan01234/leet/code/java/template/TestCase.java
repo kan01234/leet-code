@@ -1,0 +1,10 @@
+package com.kan01234.leet.code.java.template;
+
+import org.junit.jupiter.api.Test;
+
+public class TestCase {
+
+    @Test
+    public void test() throws Exception {
+    }
+}
