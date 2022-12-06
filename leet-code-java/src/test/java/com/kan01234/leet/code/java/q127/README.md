@@ -30,3 +30,6 @@ Constraints:
     beginWord, endWord, and wordList[i] consist of lowercase English letters.
     beginWord != endWord
     All the words in wordList are unique.
+
+Time Complex
+    N(Length of word ^ 2 * Number of word)
