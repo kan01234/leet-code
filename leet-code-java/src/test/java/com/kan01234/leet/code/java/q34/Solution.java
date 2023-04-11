@@ -1,16 +1,44 @@
 package com.kan01234.leet.code.java.q34;
 
 public class Solution {
-    public boolean isPalindrome(int x) {
-        if (x < 0 || (x != 0 && x % 10 == 0))
-            return false;
+    public int[] searchRange(int[] nums, int target) {
+        int n = nums.length;
 
-        int revertedNumber = 0;
-        while(x > revertedNumber) {
-            revertedNumber = revertedNumber * 10 + x % 10;
-            x /= 10;
+        int left = -1;
+        int right = -1;
+
+        int l = 0;
+        int r = n - 1;
+
+        // find left most
+        while (l <= r) {
+            int mid = (l + r) / 2;
+            if (nums[mid] >= target) {
+                r = mid - 1;
+            } else {
+                l = mid + 1;
+            }
+            if (nums[mid] == target) {
+                left = mid;
+            }
         }
 
-        return x == revertedNumber || x == revertedNumber/10;
+        l = 0;
+        r = n - 1;
+
+        // find right most
+        while (l <= r) {
+            int mid = (l + r) / 2;
+            if (nums[mid] <= target) {
+                l = mid + 1;
+            } else {
+                r = mid - 1;
+            }
+            if (nums[mid] == target) {
+                right = mid;
+            }
+        }
+
+        return new int[] { left, right };
     }
 }

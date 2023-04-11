@@ -2,6 +2,7 @@ package com.kan01234.leet.code.java.q34;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestCase {
@@ -10,8 +11,7 @@ public class TestCase {
 
     @Test
     public void test() throws Exception {
-        assertEquals(palindromeNumber.isPalindrome(-121), false);
-        assertEquals(palindromeNumber.isPalindrome(121), true);
-        assertEquals(palindromeNumber.isPalindrome(10), false);
+        assertArrayEquals(palindromeNumber.searchRange(new int[] { 5,7,7,8,8,10 }, 8), new int[] { 3,4 });
+        assertArrayEquals(palindromeNumber.searchRange(new int[] { 5,7,7,8,8,10 }, 6), new int[] { -1,-1 });
     }
 }
