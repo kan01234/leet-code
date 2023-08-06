@@ -2,22 +2,25 @@ package com.kan01234.leet.code.java.q53;
 
 /*
  * 53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+ *
+ * https://en.wikipedia.org/wiki/Maximum_subarray_problem
+ *
+ * time complexity: O(N)
+ * memory complexity: O(N)
  */
 
 class Solution {
 
   public int maxSubArray(int[] nums) {
-    int max = Integer.MIN_VALUE;
-    int count = 0;
-    for (int num : nums) {
-      if (count + num < num)
-        count = num;
-      else {
-        count += num;
-      }
-      max = Math.max(count, max);
+    int maxSum = nums[0];
+    int currentSum = nums[0];
+
+    for (int i = 1; i < nums.length; i++) {
+      currentSum = Math.max(nums[i], currentSum + nums[i]);
+      maxSum = Math.max(maxSum, currentSum);
     }
-    return max;
+
+    return maxSum;
   }
 
 }
